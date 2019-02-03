@@ -2,7 +2,7 @@ body {
   background-color: black;
   font: 1.2em 'Lucida Console';
   font-weight: 300;
-  color: #b53232;
+  color: #FFF;
 }
 
 .preload {
@@ -51,7 +51,7 @@ li a {
 a {
   display: block;
   width: 100%;
-  color: #b53232;
+  color: #ff0a0a;
   text-decoration: none;
   cursor: default;
 }
