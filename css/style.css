@@ -51,13 +51,13 @@ li a {
 a {
   display: block;
   width: 100%;
-  color: #A52A2A;
+  color: #ff00b7;
   text-decoration: none;
   cursor: default;
 }
 
 a:hover {
-  color: #30a8bb;
+  color: #00ffec;
 }
 
 #boxes {
